@@ -1,0 +1,38 @@
+Para compilar e executar:
+
+g++ -std=c++1y -o2 main.cpp -o program
+.\program
+
+Implementação de 3 métodos de transformação para base de textos:
+1:one-hot encoding
+2:dummy coding
+3:effect coding
+
+Arquivo database de entrada pode ser em qualquer extensão, e não tem cabeçalho. 
+Cada linha representa um documento texto
+Exemplo de arquivo com 3 documentos:
+
+este é um documento exemplo
+o exemplo de texto para documento
+o texto vai ser este aqui
+
+*Normalização das palavras:
+O código está convertendo todas as palavras em minúsculo, retirando sinal de pontuação e caracteres especiais.
+Só aceita palavras com mais de 2 caracteres e que não estejam
+no arquivo de stop words (arquivo fornecido pelo usuário).
+Não aceita palavras repetidas.
+
+A saída terá um cabeçalho. O primeiro atributo será "id", que é composto por "d+numeroLinha"
+Os demais atributos são as palavras de todos os documentos do arquivo de entrada, seguindo as regras de nomalização acima.
+
+Para o exemplo de entrada acima,
+terá como saída para one-hot encoding
+
+id,este,documento,exemplo,texto,vai,ser
+d1,1,1,1,0,0,0
+d2,0,1,1,1,0,0
+d3,1,0,0,1,1,1
+
+* Arquivo de saída: nomeArquivoEntrada_transformed.csv
+* Arquivo de informação: information.txt
+

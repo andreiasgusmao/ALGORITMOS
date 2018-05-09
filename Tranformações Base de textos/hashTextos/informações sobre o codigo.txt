@@ -1,0 +1,56 @@
+Para compilar e executar:
+
+g++ -std=c++1y -o2 main.cpp -o program
+.\program
+
+Implementção do método feature Hashing para base de textos.
+
+Arquivo database de entrada pode ser em qualquer extensão, e não tem cabeçalho. 
+Cada linha representa um documento texto
+Exemplo de arquivo com 3 documentos:
+
+este é um documento exemplo
+o exemplo de texto para documento
+o texto vai ser este aqui
+
+*Normalização das palavras:
+O código está convertendo todas as palavras em minúsculo, retirando sinal de pontuação e caracteres especiais.
+Só aceita palavras com mais de 2 caracteres e que não estejam
+no arquivo de stop words (arquivo fornecido pelo usuário).
+Não aceita palavras repetidas.
+
+Obs: Função hash utilizada
+h(x) = ax + b % P
+
+P = o número de atributos transformados (digitdo pelo usuário)
+Com isso a função h vai resultar em um valor [0, P[. Cada objeto será representado por uma array f com P elementos de tal forma que, para cada atributo x_i:
+
+f[ h(x_i) ] += 1
+
+ou seja, cada atributo é a contagem de quantos atributos originais caíram naquele bucket. 
+
+A saída terá um cabeçalho. O primeiro atributo será "id", que é composto por "d+numeroLinha"
+Os demais atributos serão hi,para i=0..P-1 
+
+Exemplo de saída para o arquivo com os 3 documentos usados como exemplo.
+Valores aleatórios de a=4 e b=3
+P digitado pelo usuário = 5
+
+h(este)=2 onde index x = 3856094788
+h(documento)=2 onde index x = 1429217000
+h(exemplo)=2 onde index x = 882541156
+h(exemplo)=2 onde index x = 882541156
+h(texto)=1 onde index x = 572337887
+h(documento)=2 onde index x = 1429217000
+h(texto)=1 onde index x = 572337887
+h(vai)=0 onde index x = 342503743
+h(ser)=4 onde index x = 3431379941
+h(este)=2 onde index x = 3856094788
+
+id,h0,h1,h2,h3,h4
+d1,0,1,1,0,1
+d2,1,0,1,0,1
+d3,2,1,0,1,0
+
+* Arquivo de saída: nomeArquivoEntrada_transformed.csv
+* Arquivo de informação: information.txt

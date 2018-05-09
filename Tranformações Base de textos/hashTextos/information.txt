@@ -1,0 +1,48 @@
+Transformação Feature Hashing em Base de Textos.
+Arquivo de entrada: doc.txt com 3 documentos.
+Arquivo de saída: doc_transformed.csv
+ Serão gerados 5 novos atributos.
+Valores aleatórios de a=4 e b=3
+h(este)=2 onde index x = 3856094788
+h(documento)=2 onde index x = 1429217000
+h(exemplo)=2 onde index x = 882541156
+h(exemplo)=2 onde index x = 882541156
+h(texto)=1 onde index x = 572337887
+h(documento)=2 onde index x = 1429217000
+h(texto)=1 onde index x = 572337887
+h(vai)=0 onde index x = 342503743
+h(ser)=4 onde index x = 3431379941
+h(este)=2 onde index x = 3856094788
+------------------------------------------------------------
+Transformação Feature Hashing em Base de Textos.
+Arquivo de entrada: doc.txt com 3 documentos.
+Arquivo de saída: doc_transformed.csv
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=3 e b=4
+h(este)=0 onde index x = 3856094788
+h(documento)=0 onde index x = 1429217000
+h(exemplo)=0 onde index x = 882541156
+h(exemplo)=0 onde index x = 882541156
+h(texto)=1 onde index x = 572337887
+h(documento)=0 onde index x = 1429217000
+h(texto)=1 onde index x = 572337887
+h(vai)=1 onde index x = 342503743
+h(ser)=3 onde index x = 3431379941
+h(este)=0 onde index x = 3856094788
+------------------------------------------------------------
+Transformação Feature Hashing em Base de Textos.
+Arquivo de entrada: doc.txt com 3 documentos.
+Arquivo de saída: doc_transformed.csv
+ Serão gerados 5 novos atributos.
+Valores aleatórios de a=3 e b=4
+h(este)=1 onde index x = 3856094788
+h(documento)=4 onde index x = 1429217000
+h(exemplo)=2 onde index x = 882541156
+h(exemplo)=2 onde index x = 882541156
+h(texto)=0 onde index x = 572337887
+h(documento)=4 onde index x = 1429217000
+h(texto)=0 onde index x = 572337887
+h(vai)=3 onde index x = 342503743
+h(ser)=0 onde index x = 3431379941
+h(este)=1 onde index x = 3856094788
+------------------------------------------------------------
