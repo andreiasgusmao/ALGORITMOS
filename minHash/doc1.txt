@@ -1,0 +1,3 @@
+Estou assistindo a uma aula de Big Data, mas tudo que aprendi foi Haskell durante a aula!
+Hoje aprendi Haskell na aula, será que o que aprendi será útil na minha vida?
+terceira linha de teste andreia gusmao
