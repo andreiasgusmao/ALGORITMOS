@@ -1,0 +1,6 @@
+id,cor_red,cor_green,cor_blue,cor_a1,teste_a1,teste_a2,teste_a3,teste_blue
+1,1,0,0,0,1,0,0,0
+2,0,1,0,0,0,1,0,0
+3,0,0,1,0,0,0,1,0
+4,0,0,1,0,1,0,0,0
+5,0,0,0,1,0,0,0,1

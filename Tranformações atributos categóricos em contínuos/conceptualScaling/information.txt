@@ -1,0 +1,188 @@
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 2
+
+userId_rating, movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+Numero de pares de atributos que serão transformados: 1
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc2.txt com 3 linhas.
+Arquivo de saída: doc2_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Arquivo de saída: doc3_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc.txt com 3 linhas.
+Arquivo de saída: doc_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc2.txt com 3 linhas.
+Arquivo de saída: doc2_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Arquivo de saída: doc3_transformed.csv
+Transformação Conceptual Scaling
+movieId_rating, 
+------------------------------------------------------------

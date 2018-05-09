@@ -1,0 +1,10 @@
+userId,movieId_rating,teste
+1,2455_>=1,teste1
+1,2455_>=2,teste1
+2,10_>=1,teste2
+2,10_>=2,teste2
+2,10_>=3,teste2
+2,10_>=4,teste2
+2,31_>=1,teste3
+2,31_>=2,teste3
+2,31_>=3,teste3

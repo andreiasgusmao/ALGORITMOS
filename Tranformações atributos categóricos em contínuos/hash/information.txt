@@ -1,0 +1,273 @@
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=4 e b=2
+h(red)=2 onde index x = 659694667
+h(green)=2 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=2 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=4 e b=1
+h(red)=1 onde index x = 659694667
+h(green)=1 onde index x = 794060276
+h(blue)=1 onde index x = 757465755
+h(blue)=1 onde index x = 757465755
+h(a1)=1 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 3 novos atributos.
+Valores aleatórios de a=2 e b=2
+h(red)=1 onde index x = 659694667
+h(green)=0 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=1 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 3 novos atributos.
+Valores aleatórios de a=3 e b=2
+h(red)=2 onde index x = 659694667
+h(green)=2 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=1 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=2 e b=4
+h(red)=2 onde index x = 659694667
+h(green)=0 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=2 onde index x = 2610128943
+h(a1)=2 onde index x = 2610128943
+h(a2)=2 onde index x = 3219996241
+h(a3)=2 onde index x = 1720970851
+h(a1)=2 onde index x = 2610128943
+h(blue)=2 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=3 e b=3
+h(red)=0 onde index x = 659694667
+h(green)=3 onde index x = 794060276
+h(blue)=0 onde index x = 757465755
+h(blue)=0 onde index x = 757465755
+h(a1)=0 onde index x = 2610128943
+h(a1)=0 onde index x = 2610128943
+h(a2)=2 onde index x = 3219996241
+h(a3)=0 onde index x = 1720970851
+h(a1)=0 onde index x = 2610128943
+h(blue)=0 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=4 e b=4
+h(red)=0 onde index x = 659694667
+h(green)=0 onde index x = 794060276
+h(blue)=0 onde index x = 757465755
+h(blue)=0 onde index x = 757465755
+h(a1)=0 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+id,cor,teste,
+ Serão gerados 3 novos atributos.
+Valores aleatórios de a=3 e b=2
+h(1)=2 onde index x = 224161117
+h(2)=1 onde index x = 1798176506
+h(3)=1 onde index x = 1572441600
+h(4)=1 onde index x = 1578109546
+h(5)=2 onde index x = 1274127328
+h(red)=2 onde index x = 659694667
+h(green)=2 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=1 onde index x = 2610128943
+h(a1)=1 onde index x = 2610128943
+h(a2)=0 onde index x = 3219996241
+h(a3)=1 onde index x = 1720970851
+h(a1)=1 onde index x = 2610128943
+h(blue)=2 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=4 e b=2
+h(red)=2 onde index x = 659694667
+h(green)=2 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=2 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=4 e b=3
+h(red)=3 onde index x = 659694667
+h(green)=3 onde index x = 794060276
+h(blue)=3 onde index x = 757465755
+h(blue)=3 onde index x = 757465755
+h(a1)=3 onde index x = 2610128943
+h(a1)=3 onde index x = 2610128943
+h(a2)=3 onde index x = 3219996241
+h(a3)=3 onde index x = 1720970851
+h(a1)=3 onde index x = 2610128943
+h(blue)=3 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+id,cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=1 e b=3
+h(1)=0 onde index x = 224161117
+h(2)=1 onde index x = 1798176506
+h(3)=3 onde index x = 1572441600
+h(4)=1 onde index x = 1578109546
+h(5)=3 onde index x = 1274127328
+h(red)=2 onde index x = 659694667
+h(green)=3 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=2 onde index x = 2610128943
+h(a1)=2 onde index x = 2610128943
+h(a2)=0 onde index x = 3219996241
+h(a3)=2 onde index x = 1720970851
+h(a1)=2 onde index x = 2610128943
+h(blue)=2 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+id,cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=4 e b=1
+h(1)=1 onde index x = 224161117
+h(2)=1 onde index x = 1798176506
+h(3)=1 onde index x = 1572441600
+h(4)=1 onde index x = 1578109546
+h(5)=1 onde index x = 1274127328
+h(red)=1 onde index x = 659694667
+h(green)=1 onde index x = 794060276
+h(blue)=1 onde index x = 757465755
+h(blue)=1 onde index x = 757465755
+h(a1)=1 onde index x = 2610128943
+h(a1)=1 onde index x = 2610128943
+h(a2)=1 onde index x = 3219996241
+h(a3)=1 onde index x = 1720970851
+h(a1)=1 onde index x = 2610128943
+h(blue)=1 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=3 e b=3
+h(red)=0 onde index x = 659694667
+h(green)=3 onde index x = 794060276
+h(blue)=0 onde index x = 757465755
+h(blue)=0 onde index x = 757465755
+h(a1)=0 onde index x = 2610128943
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=3 e b=1
+h(red)=2 onde index x = 659694667
+h(green)=1 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=2 onde index x = 2610128943
+h(a1)=2 onde index x = 2610128943
+h(a2)=0 onde index x = 3219996241
+h(a3)=2 onde index x = 1720970851
+h(a1)=2 onde index x = 2610128943
+h(blue)=2 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+id,cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=2 e b=4
+h(1)=2 onde index x = 224161117
+h(2)=0 onde index x = 1798176506
+h(3)=0 onde index x = 1572441600
+h(4)=0 onde index x = 1578109546
+h(5)=0 onde index x = 1274127328
+h(red)=2 onde index x = 659694667
+h(green)=0 onde index x = 794060276
+h(blue)=2 onde index x = 757465755
+h(blue)=2 onde index x = 757465755
+h(a1)=2 onde index x = 2610128943
+h(a1)=2 onde index x = 2610128943
+h(a2)=2 onde index x = 3219996241
+h(a3)=2 onde index x = 1720970851
+h(a1)=2 onde index x = 2610128943
+h(blue)=2 onde index x = 757465755
+------------------------------------------------------------
+Transformação Feature Hashing: atributos categóricos em continuos.
+Arquivo de entrada: doc3.txt com 5 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+ Serão gerados 4 novos atributos.
+Valores aleatórios de a=1 e b=1
+h(red)=0 onde index x = 659694667
+h(green)=1 onde index x = 794060276
+h(blue)=0 onde index x = 757465755
+h(blue)=0 onde index x = 757465755
+h(a1)=0 onde index x = 2610128943
+h(a1)=0 onde index x = 2610128943
+h(a2)=2 onde index x = 3219996241
+h(a3)=0 onde index x = 1720970851
+h(a1)=0 onde index x = 2610128943
+h(blue)=0 onde index x = 757465755
+------------------------------------------------------------

@@ -1,0 +1,15 @@
+Para compilar e executar:
+
+g++ -std=c++1y -o2 main.cpp -o program
+.\program
+
+Implementção de 3 métodos de transformação de atributos categóricos em contínuos:
+1:one-hot encoding
+2:dummy coding
+3:effect coding
+
+arquivo de entrada: qualquer extensão desde que dados e atributos sejam separados por vírgula
+Na primeira linha, somente os atributos
+Nas demais linhas, os valores de atributo
+
+Obs: Somente para atributos de valor único, ou seja, não está aceitando mais de um valor para cada atributo

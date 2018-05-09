@@ -1,0 +1,6 @@
+id,cor,teste
+1,red,a1
+2,green,a2
+3,blue,a3
+4,blue,a1
+5,a1,blue

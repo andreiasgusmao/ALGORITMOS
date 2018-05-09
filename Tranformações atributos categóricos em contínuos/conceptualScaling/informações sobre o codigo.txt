@@ -1,0 +1,39 @@
+Para compilar e executar:
+
+g++ -std=c++1y -o2 main.cpp -o program
+.\program
+
+Implementação do método de transformação de atributos categóricos em contínuos:
+:Conceptual Scaling
+
+arquivo de entrada: qualquer extensão desde que dados e atributos sejam separados por vírgula
+Na primeira linha, somente os atributos
+Nas demais linhas, os valores de atributo
+
+Obs: Somente para atributos de valor único, ou seja, não está aceitando mais de um valor para cada atributo
+
+Arquivo pode ter qualquer número de atributos, porém só um par de atributo será transformado, ou seja, o usuário
+irá digitar o código de um atributo categórico e outro numérico.
+ 
+Exemplo:
+userId,movieId,rating
+1,2455,2.5
+2,10,4.0
+2,31,3
+
+os atributos transformados serão: movieId(categorico) e rating(numerico)
+
+userId,movieId_rating
+1,2455_>=1
+1,2455_>=2
+2,10_>=1
+2,10_>=2
+2,10_>=3
+2,10_>=4
+2,31_>=1
+2,31_>=2
+2,31_>=3
+
+Arquivo de saída: arquivoEntrada_transformed.csv
+
+Andreia Gusmão 08/05/2017

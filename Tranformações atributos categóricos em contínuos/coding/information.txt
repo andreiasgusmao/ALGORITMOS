@@ -1,0 +1,153 @@
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: dummy coding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: effect coding
+------------------------------------------------------------
+Arquivo de entrada: doc4.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc4.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: dummy coding
+------------------------------------------------------------
+Arquivo de entrada: doc4.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: effect coding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: dummy coding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: effect coding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: dummy coding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: effect coding
+------------------------------------------------------------
+Arquivo de entrada: doc2.txt com 11 linhas.
+Atributos categóricos que serão transformados em continuos:
+genres,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc2.txt com 11 linhas.
+Atributos categóricos que serão transformados em continuos:
+title,genres,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: dummy coding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: effect coding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc1.txt com 3 linhas.
+Arquivo de saída: doc1_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc3.txt com 3 linhas.
+Arquivo de saída: doc3_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc4.txt com 5 linhas.
+Arquivo de saída: doc4_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------
+Arquivo de entrada: doc4.txt com 5 linhas.
+Arquivo de saída: doc4_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: dummy coding
+------------------------------------------------------------
+Arquivo de entrada: doc4.txt com 5 linhas.
+Arquivo de saída: doc4_transformed.csv
+Atributos categóricos que serão transformados em continuos:
+cor,teste,
+Transformacao executada: one-hot encoding
+------------------------------------------------------------

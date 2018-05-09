@@ -1,0 +1,4 @@
+userId,coluna2,movieId,rating
+1,4,2455,2.5
+2,5,10,4.0
+2,6,31,3
