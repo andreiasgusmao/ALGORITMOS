@@ -1,0 +1,38 @@
+/*----------------------------------------------------------
+ * Algoritmo InClose: um algoritmo rápido para computar os conceitos
+ * formais.
+ *
+ * Andreia Gusmão 07/06/2018
+ *----------------------------------------------------------*/
+
+Para compilar e executar:
+
+g++ -std=c++1y -o2 InClose.cpp -o program
+.\program
+
+----------------------------------------------
+ Padrão do arquivo de entrada: duas colunas separadas por tab,
+ onde a primeira coluna é referente ao objeto e a segunda ao atributo. Ex: dados.txt
+  
+ coelho	animal
+ coelho	terrestre
+ tucano	animal
+ tucano	terrestre
+ oliveira	planta
+ oliveira	terrestre
+  
+ a qual armazenará os atributos ordenados: <animal, planta, terrestre>
+ e os objetos na ordem que aparecerem: <coelho, tucano, oliveira>
+  
+ Matriz booleana
+ 1 0 1
+ 1 0 1
+ 0 1 1
+
+ o arquivo de saída conterá todos os conceitos formais, no seguinte formato: dados_concepts.data
+
+Formal Concepts: 4
+<{}, {animal,planta,terrestre}>
+<{coelho,tucano}, {animal,terrestre}>
+<{coelho,tucano,oliveira}, {terrestre}>
+<{oliveira}, {planta,terrestre}>

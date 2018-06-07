@@ -1,0 +1,12 @@
+Formal Concepts: 11
+<{}, {animal,aquático,planta,terrestre}>
+<{﻿coelho,tucano,peixe-boi}, {animal}>
+<{coelho,tucano,oliveira,samambaia,cana}, {terrestre}>
+<{tucano}, {animal,terrestre}>
+<{oliveira,samambaia,cana}, {planta,terrestre}>
+<{oliveira,samambaia,vitória-regia,cana}, {planta}>
+<{peixe-boi}, {animal,aquático}>
+<{peixe-boi,vitória-regia,cana}, {aquático}>
+<{vitória-regia,cana}, {aquático,planta}>
+<{cana}, {aquático,planta,terrestre}>
+<{﻿coelho,coelho,tucano,oliveira,samambaia,peixe-boi,vitória-regia,cana}, {}>

@@ -1,0 +1,9 @@
+coelho	animal
+
+coelho	terrestre
+
+tucano	animal
+tucano	terrestre
+
+oliveira	planta
+oliveira	terrestre

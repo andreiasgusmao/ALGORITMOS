@@ -1,0 +1,29 @@
+﻿coelho	animal
+
+coelho	terrestre
+
+tucano	animal
+
+tucano	terrestre
+
+oliveira	planta
+
+oliveira	terrestre
+
+samambaia	planta
+
+samambaia	terrestre
+
+peixe-boi	animal
+
+peixe-boi	aquático
+
+vitória-regia	planta
+
+vitória-regia	aquático
+
+cana	planta
+
+cana	terrestre
+
+cana	aquático
