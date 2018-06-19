@@ -166,13 +166,13 @@ void saveDatas (string str)
 {
 	char sep = '	';
     istringstream line(str) ;
-	string value="";
+	string value=" ";
 	Data d;
 	size_t col = 1;
-	
+
 	while( getline( line, value, sep ) )
 	{
-	    if(value != "")
+	    if(value != " ")
 	    {
 		if (col == 1 )
 		{
@@ -409,7 +409,8 @@ void inClose(int r, int y)
 					vB[rNew] = vB[r];
 					vB[rNew].values.push_back(j);
 					inClose(rNew, j+1);
-				}	
+				}
+					
 			}	
 		}		
 	}		
@@ -500,7 +501,7 @@ void saveFileConcepts()
     if (vB.size() > vA.size()) count = vB.size();
     
 	fileResult << "Formal Concepts: " << count << " Atributos: " << vAttributes.size();
-	fileResult << "Objetos: " << vObjects.size() <<endl;
+	fileResult << " Objetos: " << vObjects.size() <<endl;
        
 	for (size_t i = 0; i < count; ++i)
 	{

@@ -1,12 +1,12 @@
-Formal Concepts: 11
-<{}, {animal,aquÃ¡tico,planta,terrestre}>
-<{ï»¿coelho,tucano,peixe-boi}, {animal}>
+Formal Concepts: 11 Atributos: 4 Objetos: 7
+<{}, {animal,aquático,planta,terrestre}>
+<{coelho,tucano}, {animal,terrestre}>
 <{coelho,tucano,oliveira,samambaia,cana}, {terrestre}>
-<{tucano}, {animal,terrestre}>
+<{coelho,tucano,peixe-boi}, {animal}>
 <{oliveira,samambaia,cana}, {planta,terrestre}>
-<{oliveira,samambaia,vitÃ³ria-regia,cana}, {planta}>
-<{peixe-boi}, {animal,aquÃ¡tico}>
-<{peixe-boi,vitÃ³ria-regia,cana}, {aquÃ¡tico}>
-<{vitÃ³ria-regia,cana}, {aquÃ¡tico,planta}>
-<{cana}, {aquÃ¡tico,planta,terrestre}>
-<{ï»¿coelho,coelho,tucano,oliveira,samambaia,peixe-boi,vitÃ³ria-regia,cana}, {}>
+<{oliveira,samambaia,vitória-régia,cana}, {planta}>
+<{peixe-boi}, {animal,aquático}>
+<{peixe-boi,vitória-régia,cana}, {aquático}>
+<{vitória-régia,cana}, {aquático,planta}>
+<{cana}, {aquático,planta,terrestre}>
+<{coelho,tucano,oliveira,samambaia,peixe-boi,vitória-régia,cana}, {}>

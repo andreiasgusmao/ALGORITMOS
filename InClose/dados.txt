@@ -1,29 +1,15 @@
-ï»¿coelho	animal
-
+coelho	animal
 coelho	terrestre
-
 tucano	animal
-
 tucano	terrestre
-
 oliveira	planta
-
 oliveira	terrestre
-
 samambaia	planta
-
 samambaia	terrestre
-
 peixe-boi	animal
-
-peixe-boi	aquÃ¡tico
-
-vitÃ³ria-regia	planta
-
-vitÃ³ria-regia	aquÃ¡tico
-
+peixe-boi	aquático
+vitória-régia	planta
+vitória-régia	aquático
 cana	planta
-
 cana	terrestre
-
-cana	aquÃ¡tico
+cana	aquático

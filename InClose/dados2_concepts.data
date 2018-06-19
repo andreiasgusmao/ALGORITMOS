@@ -1,0 +1,5 @@
+Formal Concepts: 4 Atributos: 3 Objetos: 3
+<{}, {animal,planta,terrestre}>
+<{coelho,tucano}, {animal,terrestre}>
+<{coelho,tucano,oliveira}, {terrestre}>
+<{oliveira}, {planta,terrestre}>
